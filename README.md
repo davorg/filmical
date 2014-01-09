@@ -6,7 +6,9 @@ A simple program that produces an ical feed of upcoming UK film releases.
 Why?
 ----
 
-Because I couldn't find one. And I thought it would be useful.
+Because I couldn't find one. And I thought it would be useful. There are
+more details in
+[this blog post](http://blog.dave.org.uk/2014/01/uk-film-releases.html).
 
 Where does the data come from?
 ------------------------------
