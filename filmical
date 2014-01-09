@@ -1,0 +1,40 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+use 5.010;
+
+use Data::ICal;
+use Data::ICal::Entry::Event;
+use DateTime::Format::Strptime;
+use Digest::MD5 qw[md5_hex];
+
+open my $film_fh, '<', 'films.txt' or die $!;
+
+my $dt_p = DateTime::Format::Strptime->new(
+  pattern => '%Y-%m-%d'
+);
+my $ical = Data::ICal->new;
+$ical->add_properties(
+  version => '2.0',
+  prodid  => q[Dave's Film iCal Generator],
+);
+
+while (<$film_fh>) {
+  chomp;
+  my ($rel_date, $title) = split /\s+/, $_, 2;
+  my $entry = Data::ICal::Entry::Event->new;
+  my $date  = $dt_p->parse_datetime($rel_date);
+  my $start = $date->strftime('%Y%m%d');
+  my $end   = $date->add(days => 1)->strftime('%Y%m%d');
+  my $uid   = "$date-" . md5_hex($title) . '@dave.org.uk';
+  $entry->add_properties(
+    summary => $title,
+    uid     => $uid,
+    dtstart => [ $start, { VALUE => 'DATE' } ],
+    dtend   => [ $end,   { VALUE => 'DATE' } ],
+  );
+  $ical->add_entry($entry);
+}
+
+print $ical->as_string;
