@@ -65,7 +65,6 @@
 2014-03-21 The Unknown Known
 2014-03-21 Yves Saint Laurent
 2014-03-21 Yves Saint Laurent
-2014-03-21 Half of a Yellow Sun
 2014-03-21 G.B.F.
 2014-03-21 Salvo
 2014-03-21 Svengali
@@ -83,17 +82,63 @@
 2014-03-28 20 Feet From Stardom
 2014-04-04 Before I Go to Sleep
 2014-04-04 Divergent
+2014-04-04 The Double
+2014-04-04 Honour
+2014-04-04 Noah
+2014-04-04 Rio 2
+2014-04-11 Calvary
 2014-04-11 The Quiet Ones
-2014-04-18 The Amazing Spider-Man 2
-2014-05-09 Bad Neighbours
+2014-04-11 Half of a Yellow Sun
+2014-04-11 Khumba: A Zebra's Tale
+2014-04-11 The Last Days On Mars
+2014-04-11 The Lunchbox
+2014-04-11 Pioneer
+2014-04-11 The Raid 2
+2014-04-16 The Amazing Spider-Man 2
+2014-04-18 2 States
+2014-04-18 Giant
+2014-04-18 Locke
+2014-04-18 The Love Punch
+2014-04-18 Magic Magic
+2014-04-18 Rebel Without a Cause
+2014-04-18 The Sea
+2014-04-18 We Are The Best
+2014-04-23 The Other Woman
+2014-04-25 After The Night
+2014-04-25 Cupcakes
+2014-04-25 Exhibition
+2014-04-25 Tracks
+2014-04-25 Transcendence
+2014-04-30 Plastic
+2014-05-02 Blue Ruin
+2014-05-02 Brick Mansions
+2014-05-02 In Bloom
 2014-05-02 Pompeii
-2014-05-09 Sabotage
-2014-05-16 Godzilla
+2014-05-02 Tarzan
+2014-05-02 A Thousand Times Good Night
+2014-05-02 Willow Creek
+2014-05-03 Bad Neighbours
+2014-05-07 Sabotage
+2014-05-09 Advanced Style
+2014-05-09 American Interior
+2014-05-09 Frank
+2014-05-09 The Wind Rises
+2014-05-15 Godzilla
+2014-05-16 An Automun Afternoon
+2014-05-16 Concussion
+2014-05-16 In Secret
+2014-05-16 The Two Faces of January
 2014-05-22 X-Men: Days of Future Past
-2014-05-30 Maleficent
+2014-05-23 Blended
+2014-05-23 Fading Gigolo
+2014-05-23 Legends of Oz: Dorothy's Return
+2014-05-23 Postman Pat
+2014-05-28 Malificent
 2014-05-30 Edge of Tomorrow
+2014-05-30 Jimmy's Hall
+2014-05-30 A Million Ways to Die in the West
+2014-05-30 Venus in Fur
 2014-06-06 22 Jump Street
-2014-06-06 A Million Ways to Die in the West
 2014-07-04 How to Train Your Dragon 2
 2014-07-17 Dawn of the Planet of the Apes
 2014-07-25 Jupiter Ascending
